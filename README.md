@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Front end projects 
+- 🔭 I’m currently working on Front end and Backend projects 
 - 🌱 I’m currently learning Full Stack Java 
 - 👯 I’m looking to collaborate on Seven mentor
 - 🤔 I’m looking for help with Back End
