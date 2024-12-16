@@ -54,7 +54,7 @@ Here are some of the projects I've worked on:
 
 ## 🌍 Contact Me
 
-- LinkedIn: [![LinkedIn Logo](https://img.icons8.com/color/48/000000/linkedin.png)](https:/www.linkedin.com/in/akashchavan12)
+- LinkedIn: [![LinkedIn Logo](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/akashchavan12/)
 - Email: akashkailashchavan999@gmail.com
 - GitHub: [@akash-chavan](https://github.com/Akashchavhan)
 
