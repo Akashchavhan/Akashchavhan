@@ -41,16 +41,16 @@ Here are some of the projects I've worked on:
 ## 🏆 Achievements
 
 - **Certified Full Stack Java Developer**  
-  <img src="https://github.com/user-attachments/assets/3cabaad0-c687-4d06-84ec-1840069fea7c" width="100"/>
+  <img src="https://github.com/user-attachments/assets/3cabaad0-c687-4d06-84ec-1840069fea7c" width="300"/>
 
 - **Internship Certificate**  
-  <img src="https://github.com/user-attachments/assets/f503a530-3c39-4325-9448-bcce90681178" width="100"/>
+  <img src="https://github.com/user-attachments/assets/f503a530-3c39-4325-9448-bcce90681178" width="300"/>
 
 - **Rubicon Participation Certificate**  
-  <img src="https://github.com/user-attachments/assets/a7948176-28c2-4e28-b612-400023d9dcb6" width="100"/>
+  <img src="https://github.com/user-attachments/assets/a7948176-28c2-4e28-b612-400023d9dcb6" width="300"/>
 
 - **Certificate of Participation in State-Level Workshop on Art of Making PPT's**  
-  <img src="https://github.com/user-attachments/assets/0b735b21-9cee-4a82-8327-62db10721f2f" width="100"/>
+  <img src="https://github.com/user-attachments/assets/0b735b21-9cee-4a82-8327-62db10721f2f" width="300"/>
 
 ## 🌍 Contact Me
 
