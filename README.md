@@ -20,6 +20,8 @@ I have experience with a variety of programming languages, frameworks, and tools
 
 ### Backend
 - ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**
+- ![Spring Logo](https://img.icons8.com/color/48/000000/spring-logo.png) **Spring**
+- ![Hibernate Logo](https://img.icons8.com/color/48/000000/hibernate.png) **Hibernate**
 - ![MySQL Logo](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL**
 
 ## 💼 Projects
